@@ -112,4 +112,4 @@ SL=0.5 #50 percentage
 ## Support
 
 As the experimental result, the best environment for running this bot is to use `dedicated server located in NY`. 
-For support and further inquiries, please connect via Telegram: 📞 [Alberto](https://t.me/soladity).
+
